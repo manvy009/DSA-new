@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/manvy009/DSA-new/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/manvy009/DSA-new/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/manvy009/DSA-new/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/manvy009/DSA-new/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/manvy009/DSA-new/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -18,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/manvy009/DSA-new/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/manvy009/DSA-new/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
