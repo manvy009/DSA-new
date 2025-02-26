@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/manvy009/DSA-new/tree/master/0662-maximum-width-of-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/manvy009/DSA-new/tree/master/0820-find-eventual-safe-states) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/manvy009/DSA-new/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2439-longest-cycle-in-a-graph](https://github.com/manvy009/DSA-new/tree/master/2439-longest-cycle-in-a-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -154,13 +155,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/manvy009/DSA-new/tree/master/0662-maximum-width-of-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/manvy009/DSA-new/tree/master/0820-find-eventual-safe-states) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/manvy009/DSA-new/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2439-longest-cycle-in-a-graph](https://github.com/manvy009/DSA-new/tree/master/2439-longest-cycle-in-a-graph) |
 ## Graph
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/manvy009/DSA-new/tree/master/0820-find-eventual-safe-states) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/manvy009/DSA-new/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2439-longest-cycle-in-a-graph](https://github.com/manvy009/DSA-new/tree/master/2439-longest-cycle-in-a-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/manvy009/DSA-new/tree/master/0820-find-eventual-safe-states) |
+| [2439-longest-cycle-in-a-graph](https://github.com/manvy009/DSA-new/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
