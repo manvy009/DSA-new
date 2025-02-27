@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manvy009/DSA-new/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/manvy009/DSA-new/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/manvy009/DSA-new/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/manvy009/DSA-new/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/manvy009/DSA-new/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/manvy009/DSA-new/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/manvy009/DSA-new/tree/master/0455-assign-cookies) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/manvy009/DSA-new/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/manvy009/DSA-new/tree/master/0200-number-of-islands) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/manvy009/DSA-new/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/manvy009/DSA-new/tree/master/0200-number-of-islands) |
 ## String
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/manvy009/DSA-new/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manvy009/DSA-new/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manvy009/DSA-new/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/manvy009/DSA-new/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/manvy009/DSA-new/tree/master/0210-course-schedule-ii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/manvy009/DSA-new/tree/master/0662-maximum-width-of-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/manvy009/DSA-new/tree/master/0820-find-eventual-safe-states) |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/manvy009/DSA-new/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manvy009/DSA-new/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/manvy009/DSA-new/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/manvy009/DSA-new/tree/master/0210-course-schedule-ii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/manvy009/DSA-new/tree/master/0662-maximum-width-of-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/manvy009/DSA-new/tree/master/0820-find-eventual-safe-states) |
