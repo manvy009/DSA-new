@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/manvy009/DSA-new/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manvy009/DSA-new/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/manvy009/DSA-new/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/manvy009/DSA-new/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/manvy009/DSA-new/tree/master/0210-course-schedule-ii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/manvy009/DSA-new/tree/master/0662-maximum-width-of-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/manvy009/DSA-new/tree/master/0820-find-eventual-safe-states) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/manvy009/DSA-new/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manvy009/DSA-new/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/manvy009/DSA-new/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/manvy009/DSA-new/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/manvy009/DSA-new/tree/master/0210-course-schedule-ii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/manvy009/DSA-new/tree/master/0662-maximum-width-of-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/manvy009/DSA-new/tree/master/0820-find-eventual-safe-states) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/manvy009/DSA-new/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/manvy009/DSA-new/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/manvy009/DSA-new/tree/master/0820-find-eventual-safe-states) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/manvy009/DSA-new/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/manvy009/DSA-new/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/manvy009/DSA-new/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/manvy009/DSA-new/tree/master/0820-find-eventual-safe-states) |
 | [2439-longest-cycle-in-a-graph](https://github.com/manvy009/DSA-new/tree/master/2439-longest-cycle-in-a-graph) |
