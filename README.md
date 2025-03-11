@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manvy009/DSA-new/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/manvy009/DSA-new/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manvy009/DSA-new/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/manvy009/DSA-new/tree/master/0031-next-permutation) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manvy009/DSA-new/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/manvy009/DSA-new/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/manvy009/DSA-new/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/manvy009/DSA-new/tree/master/0070-climbing-stairs) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manvy009/DSA-new/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/manvy009/DSA-new/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
