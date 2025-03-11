@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/manvy009/DSA-new/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/manvy009/DSA-new/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/manvy009/DSA-new/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manvy009/DSA-new/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/manvy009/DSA-new/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/manvy009/DSA-new/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/manvy009/DSA-new/tree/master/0070-climbing-stairs) |
 ## Matrix
 |  |
 | ------- |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/manvy009/DSA-new/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/manvy009/DSA-new/tree/master/0820-find-eventual-safe-states) |
 | [2439-longest-cycle-in-a-graph](https://github.com/manvy009/DSA-new/tree/master/2439-longest-cycle-in-a-graph) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/manvy009/DSA-new/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
