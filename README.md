@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/manvy009/DSA-new/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/manvy009/DSA-new/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/manvy009/DSA-new/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/manvy009/DSA-new/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/manvy009/DSA-new/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/manvy009/DSA-new/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/manvy009/DSA-new/tree/master/0088-merge-sorted-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manvy009/DSA-new/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/manvy009/DSA-new/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/manvy009/DSA-new/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/manvy009/DSA-new/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/manvy009/DSA-new/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manvy009/DSA-new/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/manvy009/DSA-new/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/manvy009/DSA-new/tree/master/0455-assign-cookies) |
 ## Stack
 |  |
