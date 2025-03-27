@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/manvy009/DSA-new/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/manvy009/DSA-new/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/manvy009/DSA-new/tree/master/0347-top-k-frequent-elements) |
+| [2455-node-with-highest-edge-score](https://github.com/manvy009/DSA-new/tree/master/2455-node-with-highest-edge-score) |
 ## Counting
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/manvy009/DSA-new/tree/master/0820-find-eventual-safe-states) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/manvy009/DSA-new/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2439-longest-cycle-in-a-graph](https://github.com/manvy009/DSA-new/tree/master/2439-longest-cycle-in-a-graph) |
+| [2455-node-with-highest-edge-score](https://github.com/manvy009/DSA-new/tree/master/2455-node-with-highest-edge-score) |
 ## Topological Sort
 |  |
 | ------- |
