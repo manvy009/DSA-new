@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/manvy009/DSA-new/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/manvy009/DSA-new/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/manvy009/DSA-new/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/manvy009/DSA-new/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/manvy009/DSA-new/tree/master/0658-find-k-closest-elements) |
 | [1036-rotting-oranges](https://github.com/manvy009/DSA-new/tree/master/1036-rotting-oranges) |
 ## Two Pointers
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/manvy009/DSA-new/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/manvy009/DSA-new/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/manvy009/DSA-new/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/manvy009/DSA-new/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/manvy009/DSA-new/tree/master/0658-find-k-closest-elements) |
 ## Math
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/manvy009/DSA-new/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/manvy009/DSA-new/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/manvy009/DSA-new/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/manvy009/DSA-new/tree/master/0621-task-scheduler) |
 | [2455-node-with-highest-edge-score](https://github.com/manvy009/DSA-new/tree/master/2455-node-with-highest-edge-score) |
 ## Counting
 |  |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/manvy009/DSA-new/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/manvy009/DSA-new/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/manvy009/DSA-new/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/manvy009/DSA-new/tree/master/0621-task-scheduler) |
 ## Combinatorics
 |  |
 | ------- |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/manvy009/DSA-new/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/manvy009/DSA-new/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/manvy009/DSA-new/tree/master/0621-task-scheduler) |
 ## Stack
 |  |
 | ------- |
@@ -226,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/manvy009/DSA-new/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/manvy009/DSA-new/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/manvy009/DSA-new/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
