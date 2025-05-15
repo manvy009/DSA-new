@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/manvy009/DSA-new/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/manvy009/DSA-new/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/manvy009/DSA-new/tree/master/0658-find-k-closest-elements) |
+| [0690-employee-importance](https://github.com/manvy009/DSA-new/tree/master/0690-employee-importance) |
 | [1036-rotting-oranges](https://github.com/manvy009/DSA-new/tree/master/1036-rotting-oranges) |
 ## Two Pointers
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/manvy009/DSA-new/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/manvy009/DSA-new/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/manvy009/DSA-new/tree/master/0621-task-scheduler) |
+| [0690-employee-importance](https://github.com/manvy009/DSA-new/tree/master/0690-employee-importance) |
 | [2455-node-with-highest-edge-score](https://github.com/manvy009/DSA-new/tree/master/2455-node-with-highest-edge-score) |
 ## Counting
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/manvy009/DSA-new/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manvy009/DSA-new/tree/master/0145-binary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/manvy009/DSA-new/tree/master/0662-maximum-width-of-binary-tree) |
+| [0690-employee-importance](https://github.com/manvy009/DSA-new/tree/master/0690-employee-importance) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/manvy009/DSA-new/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/manvy009/DSA-new/tree/master/0417-pacific-atlantic-water-flow) |
 | [0662-maximum-width-of-binary-tree](https://github.com/manvy009/DSA-new/tree/master/0662-maximum-width-of-binary-tree) |
+| [0690-employee-importance](https://github.com/manvy009/DSA-new/tree/master/0690-employee-importance) |
 | [0820-find-eventual-safe-states](https://github.com/manvy009/DSA-new/tree/master/0820-find-eventual-safe-states) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/manvy009/DSA-new/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2439-longest-cycle-in-a-graph](https://github.com/manvy009/DSA-new/tree/master/2439-longest-cycle-in-a-graph) |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/manvy009/DSA-new/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/manvy009/DSA-new/tree/master/0417-pacific-atlantic-water-flow) |
 | [0662-maximum-width-of-binary-tree](https://github.com/manvy009/DSA-new/tree/master/0662-maximum-width-of-binary-tree) |
+| [0690-employee-importance](https://github.com/manvy009/DSA-new/tree/master/0690-employee-importance) |
 | [0820-find-eventual-safe-states](https://github.com/manvy009/DSA-new/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/manvy009/DSA-new/tree/master/1036-rotting-oranges) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/manvy009/DSA-new/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
