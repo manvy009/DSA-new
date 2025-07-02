@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/manvy009/DSA-new/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/manvy009/DSA-new/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/manvy009/DSA-new/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/manvy009/DSA-new/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/manvy009/DSA-new/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/manvy009/DSA-new/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/manvy009/DSA-new/tree/master/0658-find-k-closest-elements) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manvy009/DSA-new/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/manvy009/DSA-new/tree/master/0005-longest-palindromic-substring) |
+| [0344-reverse-string](https://github.com/manvy009/DSA-new/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/manvy009/DSA-new/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
 |  |
