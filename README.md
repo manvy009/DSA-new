@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/manvy009/DSA-new/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/manvy009/DSA-new/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/manvy009/DSA-new/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/manvy009/DSA-new/tree/master/0485-max-consecutive-ones) |
 | [0621-task-scheduler](https://github.com/manvy009/DSA-new/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/manvy009/DSA-new/tree/master/0658-find-k-closest-elements) |
 | [0690-employee-importance](https://github.com/manvy009/DSA-new/tree/master/0690-employee-importance) |
