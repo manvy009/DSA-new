@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/manvy009/DSA-new/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/manvy009/DSA-new/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/manvy009/DSA-new/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/manvy009/DSA-new/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/manvy009/DSA-new/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/manvy009/DSA-new/tree/master/0658-find-k-closest-elements) |
 | [0690-employee-importance](https://github.com/manvy009/DSA-new/tree/master/0690-employee-importance) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/manvy009/DSA-new/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/manvy009/DSA-new/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/manvy009/DSA-new/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/manvy009/DSA-new/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/manvy009/DSA-new/tree/master/0621-task-scheduler) |
 | [0690-employee-importance](https://github.com/manvy009/DSA-new/tree/master/0690-employee-importance) |
 | [2455-node-with-highest-edge-score](https://github.com/manvy009/DSA-new/tree/master/2455-node-with-highest-edge-score) |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/manvy009/DSA-new/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/manvy009/DSA-new/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
