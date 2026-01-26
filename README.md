@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/manvy009/DSA-new/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/manvy009/DSA-new/tree/master/0658-find-k-closest-elements) |
 | [0690-employee-importance](https://github.com/manvy009/DSA-new/tree/master/0690-employee-importance) |
+| [0724-find-pivot-index](https://github.com/manvy009/DSA-new/tree/master/0724-find-pivot-index) |
 | [1036-rotting-oranges](https://github.com/manvy009/DSA-new/tree/master/1036-rotting-oranges) |
 ## Two Pointers
 |  |
@@ -268,4 +269,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/manvy009/DSA-new/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/manvy009/DSA-new/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/manvy009/DSA-new/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
