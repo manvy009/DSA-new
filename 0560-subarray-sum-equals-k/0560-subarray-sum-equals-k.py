@@ -1,12 +1,16 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        map = defaultdict(int)
-        map[0] = 1
-        sum = 0
-        count = 0
-        for num in nums:
-            sum+=num
-            if (sum-k) in map:
-                count+=map[sum-k]
-            map[sum]+=1
-        return count
+        curr_sum=0
+        seen={0:1}
+        c=0
+        for x in nums:
+            curr_sum+=x
+            need=curr_sum-k
+            if need in seen:
+                c+=seen[need]
+
+            if curr_sum in seen:
+                seen[curr_sum]+=1
+            else:
+                seen[curr_sum]=1
+        return c
