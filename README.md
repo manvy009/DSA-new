@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/manvy009/DSA-new/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/manvy009/DSA-new/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/manvy009/DSA-new/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/manvy009/DSA-new/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/manvy009/DSA-new/tree/master/0658-find-k-closest-elements) |
 | [0690-employee-importance](https://github.com/manvy009/DSA-new/tree/master/0690-employee-importance) |
 | [0724-find-pivot-index](https://github.com/manvy009/DSA-new/tree/master/0724-find-pivot-index) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manvy009/DSA-new/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/manvy009/DSA-new/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/manvy009/DSA-new/tree/master/0658-find-k-closest-elements) |
 ## Linked List
 |  |
