@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/manvy009/DSA-new/tree/master/0690-employee-importance) |
 | [0724-find-pivot-index](https://github.com/manvy009/DSA-new/tree/master/0724-find-pivot-index) |
 | [1036-rotting-oranges](https://github.com/manvy009/DSA-new/tree/master/1036-rotting-oranges) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manvy009/DSA-new/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/manvy009/DSA-new/tree/master/0213-house-robber-ii) |
 | [0647-palindromic-substrings](https://github.com/manvy009/DSA-new/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/manvy009/DSA-new/tree/master/0650-2-keys-keyboard) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manvy009/DSA-new/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sorting
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/manvy009/DSA-new/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/manvy009/DSA-new/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/manvy009/DSA-new/tree/master/0658-find-k-closest-elements) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manvy009/DSA-new/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Linked List
 |  |
 | ------- |
