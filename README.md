@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/manvy009/DSA-new/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/manvy009/DSA-new/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/manvy009/DSA-new/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/manvy009/DSA-new/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1036-rotting-oranges](https://github.com/manvy009/DSA-new/tree/master/1036-rotting-oranges) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manvy009/DSA-new/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/manvy009/DSA-new/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/manvy009/DSA-new/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/manvy009/DSA-new/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/manvy009/DSA-new/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
 |  |
 | ------- |
