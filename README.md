@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/manvy009/DSA-new/tree/master/0690-employee-importance) |
 | [0704-binary-search](https://github.com/manvy009/DSA-new/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/manvy009/DSA-new/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/manvy009/DSA-new/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/manvy009/DSA-new/tree/master/1004-max-consecutive-ones-iii) |
 | [1036-rotting-oranges](https://github.com/manvy009/DSA-new/tree/master/1036-rotting-oranges) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manvy009/DSA-new/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/manvy009/DSA-new/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/manvy009/DSA-new/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/manvy009/DSA-new/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/manvy009/DSA-new/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/manvy009/DSA-new/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
