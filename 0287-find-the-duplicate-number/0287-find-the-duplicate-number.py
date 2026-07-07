@@ -1,18 +1,17 @@
 class Solution:
     def findDuplicate(self, nums: List[int]) -> int:
-        left=1
-        right=len(nums)-1
-        while left<right:
-            mid=(left+right)//2
-            c=0
-            for num in nums:
-                if num<=mid:
-                    c+=1
-            if c>mid:
-                right=mid
-            else:
-                left=mid+1
-        return left
+        s=nums[0]
+        f=nums[0]
+        while True:
+            s=nums[s]
+            f=nums[nums[f]]
+            if s==f:
+                break
+        s=nums[0]
+        while s!=f:
+            s=nums[s]
+            f=nums[f]
+        return s
 
 
 # Synced seamlessly with LeetHub Pro
