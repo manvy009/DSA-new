@@ -3,25 +3,20 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        low=0
-        mid=0
-        high=0
-        for i in nums:
-            if i==0:
-                low+=1
-            elif i==1:
-                mid+=1
+        r=0
+        w=0
+        b=len(nums)-1
+        while w<=b:
+            if nums[w]==0:
+                nums[w],nums[r]=nums[r],nums[w]
+                r+=1
+                w+=1
+            elif nums[w]==1:
+                w+=1
             else:
-                high+=1
-        for i in range(len(nums)):
-            if low>0:
-                nums[i]=0
-                low-=1
-            elif mid>0:
-                nums[i]=1
-                mid-=1
-            else:
-                nums[i]=2
-                high-=1
+                nums[w],nums[b]=nums[b],nums[w]
+                b-=1
 
-        
+# Synced seamlessly with LeetHub Pro
+# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
