@@ -1,16 +1,15 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        d={}
-        n=len(nums)
-        k=n//2
+        ca=None
+        c=0
         for i in nums:
-            if i in d:
-                d[i]+=1
+            if c==0:
+                ca=i
+            if ca==i:
+                c+=1
             else:
-                d[i]=1
-        for i in d:
-            if d[i]>k:
-                return i
+                c-=1
+        return ca
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
